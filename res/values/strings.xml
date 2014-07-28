@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">MyAndroidApp</string>
+    <string name="title_activity_app3">App3Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_app4">App4Activity</string>
+    <string name="title_activity_app5">App5Activity</string>
+    <string name="title_activity_app6">App6Activity</string>
+    <string name="title_activity_app7">App7Activity</string>
+    <string name="title_activity_app8">App8Activity</string>
+    <string name="title_activity_app9">App9Activity</string>
+    <string name="title_activity_app10">App10Activity</string>
+    <string name="activity_general_nombre">Nombre del profesional de la Salud:</string>
+    <string android:id="@+id/string1" name="activity_general_numero_paciente" android:layout_width="wrap_content" android:layout_height="wrap_content">#Paciente:</string>
+    <string android:id="@+id/string1" name="activity_genral_hora_llegada_paciente" android:layout_width="wrap_content" android:layout_height="wrap_content">H. Llegada:</string>
+    <string android:id="@+id/string1" name="activity_general_hora_de_atencion_del_paciente" android:layout_width="wrap_content" android:layout_height="wrap_content">H. Atencion:</string>
+    <string name="title_activity_app11">App11Activity</string>
+    <string name="title_activity_app12">App12Activity</string>
+    <string name="title_activity_app13">App13Activity</string>
+
+</resources>
